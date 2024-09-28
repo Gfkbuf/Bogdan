@@ -1,0 +1,41 @@
+header{
+  font-size: 30px;
+  text-align: center;
+  background-color:#009900;
+  color: #2eb306;
+  text-decoration: none;
+}
+
+ main{
+  font-size: 30px;
+  text-align: center;
+  background-color:#009900;
+  color: #2eb306;
+  text-decoration: none;
+ }
+
+ h2{
+  font-size: 40px;
+  color: #d6ca5d;
+ }
+
+ td {
+  border:2px solid #b33c00;
+  font-size: 15px;
+ }
+
+ tr {
+  border:2px solid #b33c00;
+ }
+
+ table {
+  border:2px solid #b33c00;
+ }
+
+ footer{
+  font-size: 30px;
+  text-align: center;
+  background-color:#009900;
+  color: grey;
+  text-decoration: none;
+ }
